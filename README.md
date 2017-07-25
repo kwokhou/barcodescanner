@@ -215,7 +215,7 @@ BarcodeFormat.DATABAR_EXP
 BarcodeFormat.CODABAR
 BarcodeFormat.CODE39
 BarcodeFormat.PDF417
-BarcodeFormat.QR_CODE
+BarcodeFormat.QRCODE
 BarcodeFormat.CODE93
 BarcodeFormat.CODE128
 ```
